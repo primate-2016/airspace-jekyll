@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 subtitle: does this theme work any better?
 author: Wferr
 avatar: img/authors/wferr.png
