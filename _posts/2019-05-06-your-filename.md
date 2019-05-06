@@ -4,7 +4,7 @@ subtitle: does this theme work any better?
 author: Wferr
 avatar: img/authors/wferr.png
 image: img/handles.jpg
-date: 2019-06-05T00:00:00.000Z
+date: 2019-06-05 00:00:00
 ---
 
 ## A New Post about kettlebells
