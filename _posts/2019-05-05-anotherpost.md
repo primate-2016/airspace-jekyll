@@ -1,7 +1,11 @@
 ---
-published: false
----
----
+layout: post
+title: Another Post
+subtitle: 'Jekyll is odd'
+author: primate
+published: true
+tags:
+  - apples
 ---
 
 ## A New Post
