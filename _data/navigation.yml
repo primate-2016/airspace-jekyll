@@ -1,3 +1,6 @@
+# add items you want in your navigation here
+# access them at site.data.navigation - see _includes/navigation
+
 - name: Home
   link: /
 - name: About

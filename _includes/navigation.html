@@ -1,4 +1,7 @@
 <nav>
+    <!-- this page is added to every page by being reference in the _layout/default.html
+        it pulls all the links from the _data/navigation.yml page, loops through them and
+        formats them as below -->
     {% for item in site.data.navigation %}
         <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
             {{ item.name }}
