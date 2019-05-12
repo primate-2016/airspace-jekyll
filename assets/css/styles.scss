@@ -1,0 +1,8 @@
+---
+---
+/* the empty front-matter above tells Jekyll to process this
+ @import "main" tells Sass (extension to css) to look for a file called
+ main in _sass/ directory at the root of the website 
+ note you refer to it from the html as .css, but the file itself
+ has an scss extension...*/
+ @import "main";
